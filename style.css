@@ -1,0 +1,90 @@
+*{
+    font-family: sans-serif;
+}
+.trending{
+    text-align: center;
+    font-weight: 700;
+    font-size: 48px;
+    color: #1C3554;
+    font-weight: 900;
+}
+.section_btn button{
+    width: 167px;
+    height: 48px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+}
+.section_btn{
+    display: flex;
+    gap: 60px;
+    background-color: #FFFFFF;
+    padding: 56px 280px;
+}
+.all button{
+    background-color:#F72585 ;
+    color: white;
+    font-size: 16px;
+}
+.section_cart{
+    width: 250px;
+}
+.section_cart h5{
+    color: red;
+}
+.section_star{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -30px;
+}
+.section_cart p{
+    color: #1C3554;
+    font-weight: 600;
+}
+.section_star i{
+    color: #FAA307;
+    font-size: 15px
+}
+.section_star h6{
+    font-size: 16px;
+    opacity: 0.5;
+}
+.mone{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -20px;
+}
+.mone del{
+    opacity: 0.5;
+}
+.mone h2{
+    font-weight: 700;
+    color: #1C3554;
+    font-size: 24px;
+
+}
+.main{
+    display: flex;
+    gap: 70px;
+    padding: 0px 150px;
+}
+.main2{
+    display: flex;
+    gap: 70px;
+    margin-top: 50px;
+    padding: 0px 150px;
+}
+.section_maincart button{
+    width: 288px;
+    height: 60px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F72585;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    margin-top: 56px;
+    margin-left: 576px;
+}
