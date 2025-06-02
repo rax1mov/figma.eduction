@@ -35,7 +35,6 @@
 .section_star{
     display: flex;
     align-items: center;
-    gap: 10px;
     margin-top: -30px;
 }
 .section_cart p{
@@ -44,7 +43,7 @@
 }
 .section_star i{
     color: #FAA307;
-    font-size: 15px
+    font-size: 12px
 }
 .section_star h6{
     font-size: 16px;
@@ -134,6 +133,9 @@ nav button{
     gap: 30px;
     align-items: center;
 }
+header{
+    margin-left: 90px;
+}
 .header_container{
     background:url(Background\ \(1\).png);
     width: 1260px;
@@ -194,4 +196,48 @@ i{
 }
 .header_end img{
     margin-left: 48px;
+}
+.section_img_2{
+    text-align: center;
+    margin-top: 160px;
+}
+.section_cart_2{
+    font-weight: 900;
+    font-size: 39px;
+    color: #1C3554;
+    margin-left: 130px;
+}
+.section_cart_2{
+    margin-top: 160px;
+}
+.mel span{
+    font-size: 10px;
+    font-weight: 100;
+    opacity: 0.5;
+
+}
+.mel{
+    margin-top: -20px;
+}
+
+.section_box{
+    width: 370px;
+}
+.section_box h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.section_box p{
+    font-size: 16px;
+    font-weight: 100;
+    color: #808080;
+}
+.section_box h4{
+    font-size: 16px;
+    color: #F72585;
+}
+.section_box2{
+    display: flex;
+    gap: 70px;
 }
