@@ -241,3 +241,51 @@ i{
     display: flex;
     gap: 70px;
 }
+.section_1{
+    margin-top: 200px;
+    margin-left: 200px;
+    display: flex;
+}
+.secton_div{
+    width: 608px;
+    height: 657px;
+    background-color: rgb(118, 118, 118);
+}
+.secton_text h1{
+    font-family: sans-serif;
+    font-size: 48px;
+}
+.secton_text{
+    margin-left: 100px;
+}
+.secton_text p{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.secton_text1 p{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 50px;
+}
+.secton_text1 button{
+    margin-top: 30px;
+    background-color: #F72585;
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.secton_p{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.secton_r{
+    width: 338px;
+    height: 377px;
+    background-color: #CCCCCC;
+}
